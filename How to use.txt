@@ -1,0 +1,13 @@
+Resume Classifier:
+
+cd "E:\Resume Classifier\backend"
+venv\Scripts\activate
+python server.py
+
+cd "E:\Resume Classifier\frontend\client"
+npm start
+How to Stop the App
+When you're done:
+
+Stop the backend → Press CTRL + C in the terminal running Flask.
+Stop the frontend → Press CTRL + C in the terminal running React.
